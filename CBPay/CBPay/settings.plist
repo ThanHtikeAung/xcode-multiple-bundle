@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CBPay</key>
+	<dict>
+		<key>API</key>
+		<string>This is Production</string>
+	</dict>
+	<key>CBPay UAT</key>
+	<dict>
+		<key>API</key>
+		<string>This is UAT</string>
+	</dict>
+	<key>CBPay Dev</key>
+	<dict>
+		<key>API</key>
+		<string>This is Development</string>
+	</dict>
+</dict>
+</plist>
